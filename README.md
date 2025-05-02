@@ -93,14 +93,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31fsgpglfyreag6oe5tzixqpxyfi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fsgpglfyreag6oe5tzixqpxyfi&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sansanfajrian" alt="sansanfajrian" /></a>
 </div>
@@ -108,7 +100,19 @@
 ###
 
 <div align="center">
-    <a href="https://medium.com/@sansan.fajrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sansan.fajrian" height="30" width="40" /></a>
+  <a href="https://open.spotify.com/user/31fsgpglfyreag6oe5tzixqpxyfi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fsgpglfyreag6oe5tzixqpxyfi&count=1" alt="Spotify recently played"  />
+  </a>
 </div>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@sansan.fajrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sansan.fajrian" height="30" width="40" /></a>
+</p>
+
 
 ###
