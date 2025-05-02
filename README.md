@@ -104,10 +104,11 @@
 <div align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sansanfajrian" alt="sansanfajrian" /></a>
 </div>
+
 ###
 
 <div align="center">
-    <a href="https://medium.com/sansan.fajrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sansan.fajrian" height="30" width="40" /></a>
+    <a href="https://medium.com/@sansan.fajrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sansan.fajrian" height="30" width="40" /></a>
 </div>
 
 ###
