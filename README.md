@@ -105,14 +105,15 @@
   </a>
 </div>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@sansan.fajrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sansan.fajrian" height="30" width="40" /></a>
-</p>
+<h3 align="left">Blog Posts :</h3>
 
+###
+
+<div align="center">
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sansan.fajrian/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sansan.fajrian/0" alt="Recent Article 0"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sansan.fajrian/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sansan.fajrian/0" alt="Recent Article 0"> 
+<div>
 
 ###
