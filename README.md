@@ -97,6 +97,23 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sansanfajrian" alt="sansanfajrian" /></a>
 </div>
 
+### 
+
+<h3 align="center">✍️ My Blog Posts – where I share thoughts, tips, and experiences</h3>
+
+###
+
+<div align="center">
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sansan.fajrian/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sansan.fajrian/0" alt="Recent Article 0"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sansan.fajrian/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sansan.fajrian/0" alt="Recent Article 1"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sansan.fajrian/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sansan.fajrian/0" alt="Recent Article 2"> 
+<div>
+
+###
+
+
+<h3 align="center">🎶 My Music – personal compositions and favorite tracks</h3>
+
 ###
 
 <div align="center">
@@ -104,16 +121,5 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fsgpglfyreag6oe5tzixqpxyfi&count=1" alt="Spotify recently played"  />
   </a>
 </div>
-
-### 
-
-<h3 align="left">Blog Posts :</h3>
-
-###
-
-<div align="center">
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sansan.fajrian/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sansan.fajrian/0" alt="Recent Article 0"> 
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sansan.fajrian/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sansan.fajrian/0" alt="Recent Article 0"> 
-<div>
 
 ###
